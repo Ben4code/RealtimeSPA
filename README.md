@@ -1,0 +1,1 @@
+# This is a real time Laraval vuejs application featuring veutify, JWT, Pusher and markdown to develop a forum application.
